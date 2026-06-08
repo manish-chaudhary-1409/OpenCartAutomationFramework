@@ -1,0 +1,8 @@
+/Users/manishchaudhary/eclipse-workspace/OpenCartAutomationFramework/src/test/java/base/BaseClass.java
+/Users/manishchaudhary/eclipse-workspace/OpenCartAutomationFramework/src/test/java/pages/AddToCartPage.java
+/Users/manishchaudhary/eclipse-workspace/OpenCartAutomationFramework/src/test/java/pages/HomePage.java
+/Users/manishchaudhary/eclipse-workspace/OpenCartAutomationFramework/src/test/java/pages/LoginPage.java
+/Users/manishchaudhary/eclipse-workspace/OpenCartAutomationFramework/src/test/java/pages/SearchPage.java
+/Users/manishchaudhary/eclipse-workspace/OpenCartAutomationFramework/src/test/java/testCases/TC001_LoginTest.java
+/Users/manishchaudhary/eclipse-workspace/OpenCartAutomationFramework/src/test/java/testCases/TC002_SearchProductTest.java
+/Users/manishchaudhary/eclipse-workspace/OpenCartAutomationFramework/src/test/java/testCases/TC003_AddToCartTest.java
